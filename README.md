@@ -1,2 +1,2 @@
 # Gerador-de-CPF-em-PHP 
-Projeto desenvolvido para trabalho da faculdade
+Projeto desenvolvido para trabalho da faculdade.
